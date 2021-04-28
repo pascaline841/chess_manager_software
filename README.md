@@ -14,7 +14,7 @@ Python3<br>
 ## INSTALLATION 
 Start by closing the repository :
 ```
-git clone https://github.com/pascaline841/tournament
+git clone https://github.com/pascaline841/chess_manager_software
 ```
 - Start access the project folder
 - Create a virtual environment
