@@ -1,4 +1,4 @@
-<h1 align="center"><h1 align="center">CHESS TOURNAMENT MANAGER -  SWISS PAIRING SYSTEM -  OpenClassRooms Project 04 </h1><br>
+<h1 align="center"><h1 align="center">Chess Tournament Manager -  SWISS PAIRING SYSTEM -  OpenClassRooms Project 04 </h1><br>
 <br>
 Ce script Python est le quatrieme projet réalisé dans le cadre d'une formation chez OpenClassrooms.
 
@@ -14,7 +14,7 @@ Python3<br>
 ## INSTALLATION
 Start by closing the repository :
 ```
-git clone https://github.com/pascaline841/python-oop
+git clone https://github.com/pascaline841/p04
 ```
 Start access the project folder
 
