@@ -11,17 +11,39 @@ Beta version of a chess tournament manager (Swiss system).
 Python3<br>
 <br>
 
-## INSTALLATION 
+## INSTALLATION
 Start by closing the repository :
 ```
-git clone https://github.com/pascaline841/chess_manager_software
+git clone https://github.com/pascaline841/python-oop
 ```
-- Start access the project folder
-- Create a virtual environment
-- Install the python dependencies on the virtual environment
+Start access the project folder
+
+## for Window
+Create a virtual environment
 ```
-pip install -r requirements
+python -m venv env
 ```
+Enable the virtual environment
+```
+cd env/scripts
+source activate
+```
+
+## for Linux or macOS
+Create a virtual environment 
+```
+python3 -m venv env
+```
+Activate the virtual environment with 
+```
+source env/bin/activate 
+```
+## . . . 
+Install the python dependencies to the virtual environment
+```
+pip install -r requirements.txt
+```
+  
 ## Use FLAKE8
 In order to generate a flake8 report, run the following command :
 ```
