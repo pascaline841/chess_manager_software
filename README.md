@@ -1,6 +1,5 @@
-<h1 align="center"><h1 align="center">Chess Tournament Manager -  SWISS PAIRING SYSTEM -  OpenClassRooms Project 04 </h1><br>
+<h1 align="center"><h1 align="center">Chess Tournament Manager -  SWISS PAIRING SYSTEM</h1><br>
 <br>
-Ce script Python est le quatrieme projet réalisé dans le cadre d'une formation chez OpenClassrooms.
 
 ## OVERVIEW
 Beta version of a chess tournament manager (Swiss system).
