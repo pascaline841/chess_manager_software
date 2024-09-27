@@ -13,7 +13,7 @@ Python3<br>
 ## INSTALLATION
 Start by closing the repository :
 ```
-git clone https://github.com/pascaline841/p04
+git clone https://github.com/pascaline841/python_p04
 ```
 Start access the project folder
 
